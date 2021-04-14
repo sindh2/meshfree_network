@@ -10,7 +10,7 @@
   "text": {
     "more": "The network highlights the major collaboration groups in the field of meshfree methods. The collaboration network not only shows collaboration between different authors but also highlights the inter-disciplinary nature of this research field as authors from many different disciplines have been seen to collaborate.  \nIt highlights the wide range application of this category of computational method into different disciplines. The node size in the network has been provided based on betweenness centrality which is a measure of the number of times a node acts as a link or bridge between two nodes. The name of author has been kept proportional to the size of node. ",
     "intro": "The network highlights the major collaboration groups in the field of meshfree methods. The collaboration network not only shows collaboration between different authors but also highlights the inter-disciplinary nature of this research field as authors from many different disciplines have been seen to collaborate.  ",
-    "title": "Co-Authorship network of field of meshfree methods"
+    "title": "Co-Authorship network of field of meshfree methods (1990-2020)"
   },
   "legend": {
     "edgeLabel": "Co-Authorship",
